@@ -11,6 +11,6 @@ namespace Dagger;
 /**
  * A unique identifier for an object.
  */
-readonly class UpId extends Client\AbstractScalar
+readonly class SyncerId extends Client\AbstractScalar
 {
 }
